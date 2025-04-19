@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../../projeto-js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Modelo 1"
+	}
+}
