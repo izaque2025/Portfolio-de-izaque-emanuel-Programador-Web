@@ -36,7 +36,7 @@
   }
 }
 
-@media (max-width: 977px) {
+@media (max-width: 980px) {
   .title {
     font-size: 36px;
   }
@@ -159,7 +159,7 @@
   }
 }
 
-@media (max-width: 406px) {
+@media (max-width: 415px) {
   .hero-img {
     flex: 1 1 100%;
   }
